@@ -7,7 +7,7 @@ import javax.swing.*;
 import cl.tsoft.calculadora.logica.*;
 
 public class AppCalculadora implements ActionListener{
-
+	
   private JFrame frame;
   private ButtonGroup btgSistema;
   private JButton[] btnBotones;
@@ -22,6 +22,7 @@ public class AppCalculadora implements ActionListener{
       initComponents();
   }
 
+  // inicializa componentes
   private void initComponents(){
       s=10;
       d = new Decimal();
