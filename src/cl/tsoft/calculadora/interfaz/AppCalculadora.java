@@ -22,7 +22,6 @@ public class AppCalculadora implements ActionListener{
       initComponents();
   }
 
-  // inicializa componentes
   private void initComponents(){
       s=10;
       d = new Decimal();
