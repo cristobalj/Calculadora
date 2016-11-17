@@ -6,6 +6,8 @@ public class Conversion {
 	      return Integer.parseInt(cad,16);
 	  }
 
+	  //Mas comentarios
+	  // y mas comentarios
 	  public Integer fromOctal(String cad){
 	      return Integer.parseInt(cad,8);
 	  }
