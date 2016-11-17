@@ -1,7 +1,8 @@
 package cl.tsoft.calculadora.logica;
 
 public class Octal extends Sistema{
-	  public Octal() {
+	// octal  
+	public Octal() {
 	      this.base=8;
 	  }
 	}

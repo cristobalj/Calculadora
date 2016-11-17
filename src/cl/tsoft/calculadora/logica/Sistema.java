@@ -13,10 +13,13 @@ abstract public class Sistema {
       this.operacion = ' ';
   }
 
+  
+  //yeyeyeyeye
   public void setNumeroA(int n){
       this.numeroA = n;
   }
 
+  //yeyeyeye
   public void setNumeroB(int n){
       this.numeroB = n;
   }
