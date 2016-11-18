@@ -1,7 +1,7 @@
 package cl.tsoft.calculadora.logica;
 
 public class Conversion {
-	  //Mas comentarios
+	  //Mas comentarios yeyeyeyeye
 	  public Integer fromHexadecimal(String cad){
 	      return Integer.parseInt(cad,16);
 	  }
